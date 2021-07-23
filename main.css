@@ -25,6 +25,7 @@ h2 {
 
 p {
     text-align: justify;
+    color: #212121;
 
     }
 
@@ -40,7 +41,16 @@ p:first-child  {
     width: 100%;
     background-color: gray;
     color : yellow;
+    text-align: center;
 
 }
+
+.card { 
+    
+    border-color: #BDBDBD;
+    background: #607D8B;;
+
+}
+
 
 
