@@ -21,6 +21,7 @@
 
 h2 {
    border: 1px lightblue; 
+   font-family: 'Patua One', cursive;
 }
 
 p {
@@ -35,7 +36,11 @@ h6 {
 
 h5 {
     font-weight: bold;
-}
+    font-family: 'Allura', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Satisfy', cursive;
+    }
 
 p:first-child  {
     width: 100%;
